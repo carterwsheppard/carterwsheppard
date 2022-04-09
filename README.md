@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carterwsheppard
-- 👀 I’m interested in ... technology startup opportunitie and ideas
+- 👀 I’m interested in ... technology startup opportunities and ideas
 - 🌱 I’m currently learning ... full stack web development at Vandbilt's coding bootcamp
-- 💞️ I’m looking to collaborate on ... development related to the netaverse, blockchain, or NFTs
+- 💞️ I’m looking to collaborate on ... analytics and web app development
 - 📫 How to reach me ... email: carterwsheppard@gmail.com
 
 <!---
